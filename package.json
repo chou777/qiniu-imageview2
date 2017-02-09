@@ -1,0 +1,25 @@
+{
+  "name": "qiniu-imageview2",
+  "version": "1.0.0",
+  "description": "七牛imageView2图片处理Helper",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest; eslint ./libs --ext .js"
+  },
+  "keywords": [
+    "qiniu",
+    "imageview2"
+  ],
+  "author": "zhouziyao",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-airbnb": "^10.0.0",
+    "eslint-plugin-import": "^1.12.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-react": "^6.0.0",
+    "jest": "^15.1.1"
+  }
+}
